@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MGambit
 - 👀 I like to run, play games, and sketch
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and C++
 
 
 <!---
